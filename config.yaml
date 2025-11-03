@@ -1,6 +1,6 @@
 baseURL: "magzone.com"
 title: MagZone
-theme: PaperMod
+theme: MagZone-PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
