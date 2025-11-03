@@ -1,4 +1,4 @@
-baseURL: "magzone.com"
+baseURL: "magzone.ca"
 title: MagZone
 theme: MagZone-PaperMod
 
@@ -123,8 +123,8 @@ menu:
       url: /tags/
       weight: 20
     - identifier: example
-      name: magzone.com
-      url: https://magzone.com
+      name: "magzone.ca"
+      url: https://"magzone.ca"
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
