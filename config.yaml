@@ -76,12 +76,17 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/maggyholzy/"
+    - name: instagram
+      url: "https://www.instagram.com/__magzilla__"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/magnolia-holzwarth-16b8171b5"
+    - name: email
+      url: "mailto:maggyholzy@gmail.com"
+    - name: phone
+      url: "tel:+14038949375"
+
 
   analytics:
     google:
@@ -97,7 +102,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/maggyholzy/hugo-magzone/content"
+    URL: "https://github.com/maggyholzy/hugo-magzone/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -114,6 +119,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
@@ -124,7 +133,7 @@ menu:
       weight: 20
     - identifier: example
       name: "magzone.ca"
-      url: https://"magzone.ca"
+      url: "https://magzone.ca"
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

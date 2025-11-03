@@ -4,7 +4,7 @@ title: "New Website!!"
 date: "2025-11-02"
 description: "I'm so happy with my new hugo website!"
 tags: []
-categories: ["personal", "website stuff"]
+categories: ["personal", "website stuff", "tech", "engineering"]
 series: ["Engineering Blog"]
 aliases: [""]
 ShowToc: true
