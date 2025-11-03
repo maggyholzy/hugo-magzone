@@ -16,3 +16,7 @@ weight: 2
 # Label number one!!
 
 ## Heading number two!!
+
+Gosh, I'm just so excited to have this new website. It looks so simple and clean!!
+
+More to come!
