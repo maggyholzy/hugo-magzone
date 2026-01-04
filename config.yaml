@@ -59,7 +59,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: MagZone
-    subtitle: "The portfolio of Magnolia Holzwarth"
+    subtitle: "The portfolio of Mitchell 'Maggy' Holzwarth"
     imageUrl: "images/magzilla2.png"
     imageWidth: 120
     imageHeight: 120
