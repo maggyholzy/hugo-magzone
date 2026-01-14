@@ -1,6 +1,6 @@
 ---
 author: "Magnolia Holzwarth"
-title: "Cycloid Drive: First Revision"
+title: "Cycloidal Drive: First Revision"
 date: "2025-11-09"
 description: "Cycloidal Drive build kickoff!"
 tags: ["mechatronics", "tech", "CAD", "3d printing"]

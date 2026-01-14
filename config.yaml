@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: MagZone
     subtitle: "The portfolio of Magnolia Holzwarth"
-    imageUrl: "images/magzilla2.png"
+    imageUrl: "images/download.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
