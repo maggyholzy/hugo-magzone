@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Reaver Shirt-Folder on MagZone</title>
+    <link>http://localhost:44935/posts/shirtfolder/</link>
+    <description>Recent content in The Reaver Shirt-Folder on MagZone</description>
+    <image>
+      <title>MagZone</title>
+      <url>http://localhost:44935/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:44935/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Aug 2024 05:25:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:44935/posts/shirtfolder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bearing Fruit</title>
+      <link>http://localhost:44935/posts/shirtfolder/proof/</link>
+      <pubDate>Mon, 19 Aug 2024 05:25:06 +0000</pubDate>
+      <guid>http://localhost:44935/posts/shirtfolder/proof/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;regular&#34; loading=&#34;lazy&#34; src=&#34;images/reaver.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Great news!&lt;/p&gt;
+&lt;p&gt;Last night, after hours of poring over my device&amp;rsquo;s software, switching between test-versions of firmware and production versions of my firmware, I was able to produce the correct behavior, and, remarkably, produce a folded shirt. This is a big step forward&lt;/p&gt;
+&lt;p&gt;Deep down, I was expecting another issue to arise with my motor specifications, but instead my math from months ago bore fruit, and the panels accelerated to a speed just tremendous enough to counteract the building forces of gravity threatening to pull the fabric down the pitching panel. Before a person could even identify the absence of any slipping or rolling, a well-folded shirt was on the delivery panel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our first all-steel mechanism!</title>
+      <link>http://localhost:44935/posts/shirtfolder/tensioner/</link>
+      <pubDate>Fri, 02 Aug 2024 05:25:06 +0000</pubDate>
+      <guid>http://localhost:44935/posts/shirtfolder/tensioner/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;text&#34; loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/shorts/yz74BolRoSI&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;regular&#34; loading=&#34;lazy&#34; src=&#34;images/tensioner.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So today I got my blog running! That&amp;rsquo;s the real news here, but I figured I&amp;rsquo;d post a quick update about the new tensioner mechanism as well.&lt;/p&gt;
+&lt;p&gt;This thing is heavy duty. Each piece is quarter inch steel, milled in my university machine shop. It took longer than I&amp;rsquo;d like to admit to get a handle on all the equipment, but I think the next part will go a lot faster.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

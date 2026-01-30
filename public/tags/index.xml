@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on MagZone</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:44935/tags/</link>
     <description>Recent content in Tags on MagZone</description>
     <image>
       <title>MagZone</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:44935/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:44935/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44935/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3d Printing</title>
-      <link>http://localhost:1313/tags/3d-printing/</link>
+      <link>http://localhost:44935/tags/3d-printing/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/3d-printing/</guid>
+      <guid>http://localhost:44935/tags/3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>CAD</title>
-      <link>http://localhost:1313/tags/cad/</link>
+      <link>http://localhost:44935/tags/cad/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cad/</guid>
+      <guid>http://localhost:44935/tags/cad/</guid>
       <description></description>
     </item>
     <item>
       <title>Drawer-Project</title>
-      <link>http://localhost:1313/tags/drawer-project/</link>
+      <link>http://localhost:44935/tags/drawer-project/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/drawer-project/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mechatronics</title>
-      <link>http://localhost:1313/tags/mechatronics/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mechatronics/</guid>
+      <guid>http://localhost:44935/tags/drawer-project/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tags/tech/</link>
+      <link>http://localhost:44935/tags/tech/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech/</guid>
+      <guid>http://localhost:44935/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechatronics</title>
+      <link>http://localhost:44935/tags/mechatronics/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44935/tags/mechatronics/</guid>
       <description></description>
     </item>
   </channel>
