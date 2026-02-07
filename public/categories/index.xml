@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on MagZone</title>
-    <link>http://localhost:44935/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on MagZone</description>
     <image>
       <title>MagZone</title>
-      <url>http://localhost:44935/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:44935/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:44935/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering</title>
-      <link>http://localhost:44935/categories/engineering/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/engineering/</guid>
+      <link>http://localhost:1313/categories/engineering/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Micro Projects</title>
-      <link>http://localhost:44935/categories/micro-projects/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/micro-projects/</guid>
+      <link>http://localhost:1313/categories/micro-projects/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/micro-projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Studio Upgrades</title>
-      <link>http://localhost:44935/categories/studio-upgrades/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/studio-upgrades/</guid>
+      <link>http://localhost:1313/categories/studio-upgrades/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/studio-upgrades/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechatronics</title>
-      <link>http://localhost:44935/categories/mechatronics/</link>
+      <link>http://localhost:1313/categories/mechatronics/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/mechatronics/</guid>
+      <guid>http://localhost:1313/categories/mechatronics/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>http://localhost:44935/categories/personal/</link>
+      <link>http://localhost:1313/categories/personal/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/personal/</guid>
+      <guid>http://localhost:1313/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:44935/categories/tech/</link>
+      <link>http://localhost:1313/categories/tech/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/tech/</guid>
+      <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Website Stuff</title>
-      <link>http://localhost:44935/categories/website-stuff/</link>
+      <link>http://localhost:1313/categories/website-stuff/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44935/categories/website-stuff/</guid>
+      <guid>http://localhost:1313/categories/website-stuff/</guid>
       <description></description>
     </item>
   </channel>

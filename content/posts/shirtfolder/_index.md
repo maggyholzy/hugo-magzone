@@ -1,9 +1,9 @@
 ---
-title: "The Reaver Shirt-Folder"
+title: "Shirt-folding Machine Personal Project"
 description: "Avast."
 slug: "blogs"
 image: reaver.png
-date: 2024-10-31T22:27:21-05:00
+date: "2026-02-01"
 draft: false
 ---
 
@@ -21,11 +21,12 @@ It's still surreal to me that it went off without a hitch. Now, instead of frett
 
 # Tensioner Fabrication
 
+{{< youtube yz74BolRoSI >}}
+
 This tensioner is heavy duty. Each piece is quarter inch steel, milled in my university machine shop. It took longer than I'd like to admit to get a handle on all the equipment, but I think the next part will go a lot faster.
 
 Basically, it keeps the belt for the center-panel of my device tight, tight enough that if you push on the center panel, it actually backdrives the crazy AndyMark gearbox I have operating the center panel. Cool, right?
 
-https://www.youtube.com/shorts/yz74BolRoSI
 
 ![regular](images/tensioner.jpg) 
 

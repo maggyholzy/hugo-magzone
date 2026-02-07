@@ -2,72 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:44935/posts/mini-drawers/</loc>
+    <loc>http://localhost:1313/posts/drawers-2/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mini-drawers/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/posts/cycloidal-drive/</loc>
+    <loc>http://localhost:1313/posts/cycloidal-drive/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/posts/default/</loc>
+    <loc>http://localhost:1313/posts/default/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/tags/3d-printing/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/3d-printing/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/tags/cad/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/cad/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/tags/drawer-project/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/drawer-project/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/engineering/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/engineering/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/micro-projects/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/micro-projects/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/posts/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/studio-upgrades/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/studio-upgrades/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/tags/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/tags/tech/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/mechatronics/</loc>
+    <loc>http://localhost:1313/posts/shirtfolder/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/mechatronics/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/tags/mechatronics/</loc>
+    <loc>http://localhost:1313/tags/mechatronics/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/personal/</loc>
+    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/tech/</loc>
+    <loc>http://localhost:1313/categories/tech/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44935/categories/website-stuff/</loc>
+    <loc>http://localhost:1313/categories/website-stuff/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44935/posts/shirtfolder/</loc>
-    <lastmod>2024-10-31T22:27:21-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44935/posts/shirtfolder/proof/</loc>
-    <lastmod>2024-08-19T05:25:06+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44935/posts/shirtfolder/tensioner/</loc>
-    <lastmod>2024-08-02T05:25:06+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44935/posts/search/</loc>
   </url>
 </urlset>

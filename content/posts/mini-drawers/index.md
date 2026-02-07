@@ -1,6 +1,6 @@
 ---
 author: "Magnolia Holzwarth"
-title: "Shelving Project"
+title: "Drawer Project"
 date: "2026-01-23"
 description: "Design and prototype of the shelving project!"
 tags: ["tech", "CAD", "3d printing", "drawer-project"]
