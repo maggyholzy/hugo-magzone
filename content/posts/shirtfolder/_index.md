@@ -27,6 +27,8 @@ This tensioner is heavy duty. Each piece is quarter inch steel, milled in my uni
 
 Basically, it keeps the belt for the center-panel of my device tight, tight enough that if you push on the center panel, it actually backdrives the crazy AndyMark gearbox I have operating the center panel. Cool, right?
 
+https://github.com/maggyholzy/shirtfolder-esp32 And here's a link to the source-code, in case it's useful to anyone. It's compiled and deployed using ESP-IDF
+
 
 ![regular](images/tensioner.jpg) 
 
